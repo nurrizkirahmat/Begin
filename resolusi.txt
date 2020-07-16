@@ -1,0 +1,4 @@
+- Dapat belajar tentang git & github
+- belajar pemrogaman java dan python
+- belajar pemrogaman html dan css
+- belajar CI dan database
