@@ -334,41 +334,7 @@ void login(){//bagian ini sudah dihapus dan harus kalian isi lagi sesuai dengan 
 		fclose(user_user);
 		main();
 	}	
-}
-
-	//user 1 gagal user 2 berhasil
-	/*system("cls");
-	char user[20];
-	char pass[20];
-	if(i<3){
-		printf("Username: ");gets(tempusr.us);
-		printf("Password: ");gets(tempusr.ps);
-		user_user = fopen("customer.dat","rb+");
-		while(fread(&lu,sizeof(lu),1,user_user)==1){
-		  }
-			if(strcmp(tempusr.us,lu.us)==0&&strcmp(tempusr.ps,lu.ps)==0){
-				system("cls");
-				getch();
-				i=0;
-				menusr();
-			}	
-		
-		else{
-			printf("Login Gagal");
-			getch();
-			i++;
-		    login();
-			}
-		fclose(user_user);
-	}
-	
-	else{
-		printf("Anda Telah Salah 3x, Silahkan Registrasi");
-		main();
-		fclose(user_user);
-	}
-}*/
-	
+}	
 	
 void regis1(){//bagian ini sudah dihapus dan harus kalian isi lagi sesuai dengan file.exe
 	system("cls");
