@@ -4,8 +4,7 @@ Dibuat menjadi aplikasi yang ringan untuk diinstal
 
 Dengan bahasa Python & Java 
 UI/UX harus menarik 
-Framework PHP
- - Code Igniter
-Database 
- - Firebase
- - Oracle
+Adanya framework PHP
+  - Code Igniter
+Database dengan Oracle
+
