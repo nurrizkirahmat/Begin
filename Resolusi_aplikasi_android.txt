@@ -1,0 +1,6 @@
+Dibuat menjadi aplikasi yang ringan untuk diinstal
+- berkisar 10-20 MB
+- Tidak menghabiskan ruang penyimpanan
+
+Dengan bahasa Python & Java 
+UI/UX harus menarik 
