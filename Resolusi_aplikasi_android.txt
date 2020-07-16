@@ -5,5 +5,6 @@ Dibuat menjadi aplikasi yang ringan untuk diinstal
 Dengan bahasa Python & Java 
 UI/UX harus menarik 
 Adanya framework PHP
-  - Larravel
+  - Code Igniter
 Database dengan Oracle
+
